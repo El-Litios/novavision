@@ -1,0 +1,23 @@
+.nav-wrapper{
+    background-color: white;
+
+}
+
+.nav-wrapper a{
+    color: black;
+    height: 87px;
+    text-align: center;
+}
+
+.brand-logo{
+    width: 150px;
+    height: 150px;
+}
+
+nav{
+    height: 6rem;
+}
+
+.link-nav{
+    padding-top: 10px;
+}
