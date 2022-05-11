@@ -1,23 +1,24 @@
 .nav-wrapper{
     background-color: white;
-
 }
 
 .nav-wrapper a{
-    color: black;
+    color: rgb(6, 98, 209);
     height: 87px;
     text-align: center;
 }
 
 .brand-logo{
-    width: 150px;
-    height: 150px;
+    width: 145px;
+    height: 145px;
 }
 
 nav{
-    height: 6rem;
+    height: 5.5rem;
 }
 
 .link-nav{
-    padding-top: 10px;
+    padding-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
