@@ -1,0 +1,33 @@
+.offices-title{
+    color: rgb(6, 98, 209);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+iframe{
+    border-radius: 20px;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.office-card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.office-card h5{
+    margin-top: 10px;
+}
+
+.office-card .card-subtitles{
+    font-size: small;
+    font-weight: 600;
+    color: grey;
+}
+
+.office-card p{
+    font-size: small;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
